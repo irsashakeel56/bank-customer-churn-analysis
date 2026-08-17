@@ -36,33 +36,23 @@ This project analyzes bank customer data to identify patterns and factors associ
 
 ### 🌍 Churn by Geography
 
-<p align="center">
-  <img src="images/churn_by_geography.png" width="450">
-</p>
+<img src="images/churn_by_geography.png" width="450">
 
 ### ⚥ Churn by Gender
 
-<p align="center">
-  <img src="images/churn_by_gender.png" width="450">
-</p>
+<img src="images/churn_by_gender.png" width="450">
 
 ### 🎂 Churn by Age
 
-<p align="center">
-  <img src="images/churn_by_age.png" width="450">
-</p>
+<img src="images/churn_by_age.png" width="450">
 
 ### 👥 Churn by Active Membership
 
-<p align="center">
-  <img src="images/churn_by_active_member.png" width="450">
-</p>
+<img src="images/churn_by_active_member.png" width="450">
 
 ### 🔥 Correlation Heatmap
 
-<p align="center">
-  <img src="images/correlation_heatmap.png" width="500">
-</p>
+<img src="images/correlation_heatmap.png" width="550">
 
 ## 📁 Project Files
 
