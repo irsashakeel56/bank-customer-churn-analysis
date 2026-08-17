@@ -32,37 +32,27 @@ This project analyzes bank customer data to identify patterns and factors associ
 - 💰 Exited customers had a higher median balance.
 - 💳 Credit Score and Estimated Salary showed relatively weak relationships with churn.
 
-## 📊 Visualizations
+ ## 📊 Visualizations
 
 ### 🌍 Churn by Geography
 
-<p align="center">
-  <img src="images/churn_by_geography.png" width="450">
-</p>
+![Churn by Geography](images/churn_by_geography.png)
 
 ### ⚥ Churn by Gender
 
-<p align="center">
-  <img src="images/churn_by_gender.png" width="450">
-</p>
+![Churn by Gender](images/churn_by_gender.png)
 
-### 🎂 Churn by Age
+### 🎂 Age Distribution by Churn Status
 
-<p align="center">
-  <img src="images/churn_by_age.png" width="450">
-</p>
+![Age Distribution](images/churn_by_age.png)
 
 ### 👥 Churn by Active Membership
 
-<p align="center">
-  <img src="images/churn_by_active_member.png" width="450">
-</p>
+![Churn by Active Membership](images/churn_by_active_member.png)
 
 ### 🔥 Correlation Heatmap
 
-<p align="center">
-  <img src="images/correlation_heatmap.png" width="500">
-</p>
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ## 📁 Project Files
 
