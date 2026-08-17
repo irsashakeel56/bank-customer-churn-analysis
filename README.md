@@ -21,7 +21,6 @@ This project analyzes bank customer data to identify patterns and factors associ
 - Exploratory Data Analysis
 - Data Visualization
 - Correlation Analysis
-- Business Insights
 
 ## 💡 Key Insights
 
@@ -32,8 +31,6 @@ This project analyzes bank customer data to identify patterns and factors associ
 - 📢 Customer complaints showed a very strong association with churn.
 - 💰 Exited customers had a higher median balance.
 - 💳 Credit Score and Estimated Salary showed relatively weak relationships with churn.
-
-## 📊 Visualizations
 
 ## 📊 Visualizations
 
