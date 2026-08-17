@@ -36,7 +36,7 @@ This project analyzes bank customer data to identify patterns and factors associ
 
 ### 🌍 Churn by Geography
 
-![Churn by Geography](images/churn_by_geography.png)
+images/churn_by_geography.png
 
 ### ⚥ Churn by Gender
 
