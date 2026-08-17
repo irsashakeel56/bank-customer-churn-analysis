@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Analysis
+ # 🏦 Bank Customer Churn Analysis
 
 > Exploratory Data Analysis of bank customers to understand patterns associated with customer churn.
 
@@ -36,26 +36,37 @@ This project analyzes bank customer data to identify patterns and factors associ
 
 ### 🌍 Churn by Geography
 
-<img src="images/churn_by_geography.png" width="450">
+<p align="center">
+  <img src="images/churn_by_geography.png" width="450">
+</p>
 
 ### ⚥ Churn by Gender
 
-<img src="images/churn_by_gender.png" width="450">
+<p align="center">
+  <img src="images/churn_by_gender.png" width="450">
+</p>
 
 ### 🎂 Churn by Age
 
-<img src="images/churn_by_age.png" width="450">
+<p align="center">
+  <img src="images/churn_by_age.png" width="450">
+</p>
 
 ### 👥 Churn by Active Membership
 
-<img src="images/churn_by_active_member.png" width="450">
+<p align="center">
+  <img src="images/churn_by_active_member.png" width="450">
+</p>
 
 ### 🔥 Correlation Heatmap
 
+<p align="center">
   <img src="images/correlation_heatmap.png" width="500">
+</p>
 
 ## 📁 Project Files
--`Customer-Churn-Records.csv` — Dataset
+
+- `Customer-Churn-Records.csv` — Dataset
 - `bank_customer_churn_analysis.ipynb` — Complete analysis
 - `images/` — Project visualizations
 
